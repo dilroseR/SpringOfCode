@@ -1,3 +1,7 @@
+"""
+Q.) Find the maximum occurring character in the string
+"""
+
 def maxOccur(s):
 	letters=[]
 	countOfeachLetter=[]

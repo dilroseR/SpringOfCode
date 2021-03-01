@@ -23,7 +23,7 @@ def maxOccur(s):
 	
 	return letters[answer]
 		
-	
+	 
 
 
 print("Enter the string: ")

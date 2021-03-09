@@ -1,3 +1,5 @@
+#Print all strings of maximum length from an array of strings
+
 print("Enter the elements: ")
 res=input().split(" ")
 ans=[]
